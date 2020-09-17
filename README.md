@@ -1,9 +1,7 @@
 # My-Work
 
 # Dependencies
-   "@react-native-community/masked-view": "^0.1.10",
-    "@react-navigation/material-bottom-tabs": "^5.2.16",
-    "@react-navigation/material-top-tabs": "^5.2.16",
+
     "@react-navigation/native": "^5.7.3",
     "@react-navigation/stack": "^5.9.0",
     "axios": "^0.20.0",
